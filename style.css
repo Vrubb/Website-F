@@ -14,10 +14,7 @@ body {
 
 .main-container {
     position: absolute;
-    width: 60vw; 
-    max-width: 500px;
-    height: auto;
-    border-radius: 10px;
+
     background-size: cover; 
 }
 
