@@ -18,6 +18,7 @@ body {
     max-width: 500px;
     height: auto;
     border-radius: 10px;
+    background-size: cover; 
 }
 
 .main-image {
@@ -25,6 +26,7 @@ body {
     height: auto;
     border-radius: 10px;
     size: cover;
+    background-size: cover; 
 }
 
 .small-image {
