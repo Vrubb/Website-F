@@ -26,6 +26,7 @@ body {
     background-size: contain; 
     background-position: center;
     background-repeat: no-repeat;
+    object-fit: contain;
 }
 
 .main-image {
@@ -36,6 +37,7 @@ body {
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
+    object-fit: contain;
 }
 
 .small-image {
