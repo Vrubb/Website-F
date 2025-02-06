@@ -14,8 +14,10 @@ body {
 
 .main-container {
     position: absolute;
-
-    background-size: cover; 
+    width: 60vw; 
+    max-width: 500px;
+    height: auto;
+    border-radius: 10px;
 }
 
 .main-image {
@@ -23,7 +25,6 @@ body {
     height: auto;
     border-radius: 10px;
     size: cover;
-    background-size: cover; 
 }
 
 .small-image {
