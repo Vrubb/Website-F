@@ -1,3 +1,8 @@
+.section {
+    height: 90vh;
+    width: 100%;
+    border: 2px solid black;
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -19,6 +24,8 @@ body {
     height: auto;
     border-radius: 10px;
     background-size: contain; 
+    background-position: center;
+    background-repeat: no repeat;
 }
 
 .main-image {
@@ -26,7 +33,9 @@ body {
     height: auto;
     border-radius: 10px;
     size: cover;
-    background-size: contain; 
+    background-size: contain;
+    background-position: center;
+    background-repeat: no repeat;
 }
 
 .small-image {
