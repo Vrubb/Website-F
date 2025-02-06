@@ -15,9 +15,7 @@ body {
 /* Main Image Container */
 .main-container {
     position: absolute;
-    width: 60vw; /* Adjust size */
-    max-width: 500px;
-    height: auto;
+
     border-radius: 10px;
     background-size: cover; /* Fills screen without stretching */
 }
