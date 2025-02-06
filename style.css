@@ -26,6 +26,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     object-fit: contain;
+    size: cover;
 }
 
 .main-image {
